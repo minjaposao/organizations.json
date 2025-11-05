@@ -1,0 +1,13 @@
+{
+  "laws": [],
+  "numGoals": 1,
+  "goals": [
+    {
+      "numQuestions": 1
+    }
+  ],
+  "notes": "",
+  "aiResult": "Cilj 1: Provera usklađenosti sa Zakonom o javnim nabavkama\n1. Da li su sprovedeni postupci javnih nabavki u skladu sa odredbama Zakona o javnim nabavkama?\n2. Da li su ugovori sklopljeni na osnovu javnih nabavki u skladu sa propisanim procedurama?\n3. Da li su dokumentacija i evidencije vezane za javne nabavke adekvatno vođene i dostupne na uvid?\n\nCilj 2: Kontrola transparentnosti i efikasnosti javnih nabavki\n1. Da li su postupci javnih nabavki sprovedeni transparentno i javno objavljeni?\n2. Da li su kriterijumi za izbor ponuđača jasno definisani i primenjeni?\n3. Da li su troškovi nabavki opravdani i u skladu sa tržišnim cenama?\n4. Da li su potencijalni sukobi interesa identifikovani i adekvatno rešeni tokom procesa javnih nabavki?\n5. Da li su svi učesnici u postupku javnih nabavki tretirani jednako i ravnopravno?",
+  "timestamp": "2025-10-20T09:53:02.899Z",
+  "createdAt": "2025-10-20T09:53:03.220Z"
+}
